@@ -24,7 +24,7 @@ These templates encode the rules from [`CONTRIBUTING.md`](https://github.com/pol
 | Plan documentation for a new product or a launch          | [`documentation-plan.md`](documentation-plan.md)                   | Yes, 4 to 6 weeks ahead |
 | Check your work before requesting review                  | [`pr-self-review-checklist.md`](pr-self-review-checklist.md)       | n/a                     |
 
-"Ask first" means send a short message in [#docs-channel] before you write, so placement gets settled while it is still cheap to change. Misplaced content is the most expensive thing to fix after the fact.
+"Ask first" means send a short message in Element before you write, so placement gets settled while it is still cheap to change. Misplaced content is the most expensive thing to fix after the fact.
 
 If you are unsure whether a page is a concept, a guide, or a tutorial, the distinction is what the reader is doing while reading it:
 
