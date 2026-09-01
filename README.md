@@ -116,6 +116,6 @@ If a rule here conflicts with the style guide, the style guide wins. If neither 
 
 ## Authoring With an AI Agent
 
-If you draft with an LLM, point it at the style guide's [`AGENTS.md`](https://github.com/papermoonio/documentation-style-guide/blob/main/AGENTS.md) first. It front-loads the rules that generated output violates most often: bold misuse, em dash over-use, banned phrases, list punctuation, and dropped backticks.
+If you draft with an LLM, point it at the style guide's [`AGENTS.md`](https://github.com/polkadot-developers/polkadot-docs/blob/master/AGENTS.md) first. It front-loads the rules that generated output violates most often: bold misuse, em dash over-use, banned phrases, list punctuation, and dropped backticks.
 
 An AI draft still needs a human who knows the product to verify every claim, every identifier, and every code example before the PR is opened. Review catches style problems. It does not catch a plausible-sounding claim about behaviour that does not exist.
